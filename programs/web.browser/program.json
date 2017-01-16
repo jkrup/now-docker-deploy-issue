@@ -1,0 +1,20 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "c57cdf0ff1b34f761aa4d12358f956c3f3dc1bed.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/c57cdf0ff1b34f761aa4d12358f956c3f3dc1bed.js?meteor_js_resource=true",
+      "size": 486165,
+      "hash": "c57cdf0ff1b34f761aa4d12358f956c3f3dc1bed"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "66461e44dff6fd184cf1f1484b4d9228bbc2363d"
+    }
+  ]
+}
